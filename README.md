@@ -186,11 +186,13 @@ git branch -d v0.2
 
 ![Creative Commons BY SA](Captura de pantalla 2015-11-21 a la(s) 14.48.30)
 
-###2.12 CREAR UNA TABLE
+###2.12 CREAR UNA TABLA
 
 |NOMBRE          |GITHUB                                            |
 |:---------------|:-------------------------------------------------|
 |Antonio Bastidas|[Antonio Bastidas](https://github.com/Antonio2106)|
+|Marcos Cortina  |[Marcos Cortina](https://github.com/marcoscortina)|
+
 
 
 
