@@ -192,6 +192,8 @@ git branch -d v0.2
 |:---------------|:-------------------------------------------------|
 |Antonio Bastidas|[Antonio Bastidas](https://github.com/Antonio2106)|
 |Marcos Cortina  |[Marcos Cortina](https://github.com/marcoscortina)|
+|Javier Rivas    |[Javier Rivas](https://github.com/jrivax)         |
+
 
 
 
