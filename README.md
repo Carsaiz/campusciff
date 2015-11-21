@@ -22,6 +22,7 @@ cd ~/.ssh
 ssh-keygen
 cat ~/.ssh/id_rsa.pub 
 git init   (Para inicializar la carpeta) 
+
 git clone https://github.com/carsaiz/campusciff  (Clonar el repositorio) 
 
 ####2.2.1. Cear en el local, un archivo README.md
