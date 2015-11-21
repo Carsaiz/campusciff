@@ -188,11 +188,13 @@ git branch -d v0.2
 
 ###2.12 CREAR UNA TABLA
 
-|NOMBRE          |GITHUB                                            |
-|:---------------|:-------------------------------------------------|
-|Antonio Bastidas|[Antonio Bastidas](https://github.com/Antonio2106)|
-|Marcos Cortina  |[Marcos Cortina](https://github.com/marcoscortina)|
-|Javier Rivas    |[Javier Rivas](https://github.com/jrivax)         |
+|NOMBRE           |GITHUB                                            |
+|:----------------|:-------------------------------------------------|
+|Antonio Bastidas |[Antonio Bastidas](https://github.com/Antonio2106)|
+|Marcos Cortina   |[Marcos Cortina](https://github.com/marcoscortina)|
+|Javier Rivas     |[Javier Rivas](https://github.com/jrivax)         |
+|Borja Moreno Pozo|[Borja Moreno](https://github.com/bmpozo)         |
+
 
 
 
