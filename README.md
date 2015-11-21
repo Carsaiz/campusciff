@@ -179,3 +179,11 @@ git tag -n
 ####2.9.3. Borrar la rama v0.2
 
 git branch -d v0.2
+
+###2.10 CUENTA DE GITHUB
+
+####2.10.2 Poner el doble factor de autentificación
+
+
+
+
