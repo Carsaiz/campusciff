@@ -195,6 +195,8 @@ git branch -d v0.2
 |Javier Rivas     |[Javier Rivas](https://github.com/jrivax)         |
 |Borja Moreno Pozo|[Borja Moreno](https://github.com/bmpozo)         |
 
+[pincha aquí para ir a la organización de Carlos](https://github.com/campusciff-carsaiz)
+
 
 
 
