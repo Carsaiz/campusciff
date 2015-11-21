@@ -7,6 +7,7 @@
 ####2.1.1. Crear un repositorio llamado campusciff en nuestro GitHub
 
 git config --global user.name "Carsaiz"
+
 git config --global user.email "carlos_sa_620@hotmail.com"
 
 cd campusciff  (ya había sido creado en clase)
