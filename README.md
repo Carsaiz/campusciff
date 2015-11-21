@@ -184,8 +184,8 @@ git branch -d v0.2
 
 ####2.10.2 Poner el doble factor de autentificación
 
-![CVS Centralizado]
-Captura de pantalla 2015-11-21 a la(s) 14.48.30
+![Creative Commons BY SA](Captura de pantalla 2015-11-21 a la(s) 14.48.30)
+
 
 
 
